@@ -4,6 +4,12 @@
 
 I used this template for my own site [here](https://hanafi.dev)!
 
+## Screenshots
+
+![](screenshots/home.png)
+
+![](screenshots/cv.png)
+
 ## Installation
 
 Head to your WordPress dashboard.
